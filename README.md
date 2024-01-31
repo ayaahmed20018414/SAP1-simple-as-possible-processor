@@ -2,7 +2,7 @@
 ![image](https://github.com/ayaahmed20018414/SAP1-simple-as-possible-processor/assets/82789012/decaecad-4322-451f-9d5b-15bc0e559440)
 
 
-In this project, I designed Simple as possible processor which is a bus-organized computer and makes use of Von-Neumann architecture. It makes use of an 8-bit central bus and has ten main components. A pictorial representation of its architecture is shown above.
+In this project, I designed Simple as possible processor which is a bus-organized computer and makes use of Von-Neumann architecture. It makes use of an 8-bit central bus and has nine main components. A pictorial representation of its architecture is shown above.
 
 Program Counter: The program counter’s job is to store and send out the memory address of the next instruction to be fetched and executed. The program counter, which is part of the control unit, counts from 0000 to 1111 as the program is stored at the beginning of the memory with the first instruction at binary address 0000, the second instruction at address 0001, the third at address 0010, and so on.
 
